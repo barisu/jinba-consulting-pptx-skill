@@ -17,6 +17,7 @@ description: スライド設計規約 slide-rules.md を核に、経営会議品
 | `references/archetype-catalog.md` | 62型の一覧（型ID・型名・使いどころ・どのパーツ集の何番か） | ストーリーラインの各行に見せ方を書くとき、見せ方に迷う行があれば引く（必読ではない。手順2） |
 | `references/content-review-prompt.md` | フレッシュアイ・レビューの指示文 | 機械チェック通過後、納品前 |
 | `references/ai-smell-lexicon.md` | AI臭ワード・言い回しのリスト | 文章の仕上げ時 |
+| `references/japanese-tech-writing.md` | 日本語技術文書の文章規範（段落・論証・LLM特有表現の排除・冗長排除） | 原稿や解説文の執筆、推敲・リライト、文章の仕上げ時 |
 | `templates/freeform_parts_16x9.html` | 基本パーツ集 27（表紙・全体マップ・矢羽・前提→帰結・軸のある表・主張パネル・評価表・分布図など）。まずここから | 手順3 |
 | `templates/freeform_parts_more_16x9.html` | 追加パーツ集 35（エグゼクティブサマリー・積み上げ棒・ブリッジ・散布図・比較表・マトリクス・ロードマップ・ガントなど）。基本で足りないとき | 手順3 |
 | `assets/SlideCatalog_16x9.pdf` | 両パーツ集を印刷した62ページ（P.1〜27 基本、P.28〜62 追加） | 型を目で探すとき |
